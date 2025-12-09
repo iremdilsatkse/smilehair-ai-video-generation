@@ -45,6 +45,6 @@ Her sahne, yapay zeka ile tutarlı ifadeler, renk tonları ve ortam atmosferleri
 Bu deneyimi mümkün kılanlara teşekkür ederiz:
 
 - **Smile Hair Clinic ekibi**
-- **Kurucular:** Dr. Mehmet Erdoğan & Dr. Gökhan Vayni
+- **Kurucular:** Dr. Mehmet Erdoğan & Dr. Gökay Bilgin
 - **Değerli jüri üyeleri**
 - **Organizasyon desteği için:** Coderspace
